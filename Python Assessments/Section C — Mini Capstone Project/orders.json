@@ -1,0 +1,31 @@
+[
+    {
+        "order_id": 1,
+        "customer_name": "jaydeep",
+        "items": [
+            "burger",
+            "pizaa"
+        ],
+        "total_amount": 1200.0,
+        "status": "Pending"
+    },
+    {
+        "order_id": 2,
+        "customer_name": "het",
+        "items": [
+            "pizza",
+            "coke"
+        ],
+        "total_amount": 1000.0,
+        "status": "Pending"
+    },
+    {
+        "order_id": 3,
+        "customer_name": "het",
+        "items": [
+            "fries"
+        ],
+        "total_amount": 200.0,
+        "status": "Pending"
+    }
+]
